@@ -5,6 +5,7 @@ If anyone has a wish to see the code behind pictures shown below, please contact
 <hr>
 This project was made in pure PHP for backend technology and HTML, CSS , JS, jQuery and AJAX for frontend technology. Idea was to create a forum like Simple Machines Forum. This forum provides Portal page with pure CSS & JS slideshow in carousel, register page, login page, home page, help section, topics & subtopics sections, profile panagment, sticky and non-sticky topics, locked topics.<br>
 It also provides admin panel, moderator panel, forum ranks, users last activity, and much more...<br>
+Forum is also resposinsible for all devices (including all types of monitors, laptops, mobiles and tablets).<br>
 <b>Front end technologies:</b>HTML, CSS, JS, jQuery, AJAX<br>
 <b>Back end:</b> PHP<br>
 <b>Database:</b> mySQL<br><br>
@@ -33,12 +34,12 @@ Bellow this text, there are some pictures of a website.<br>
 ![Profile_Appearance](https://user-images.githubusercontent.com/35956934/77958182-f064ea00-72d4-11ea-8881-77d5cc3c1f89.png)
 *Profile edit*
 ![Profile_Edit](https://user-images.githubusercontent.com/35956934/77958186-f2c74400-72d4-11ea-96f9-3af3a53922dc.png)
-*Whole screen*
-![Container_Whole_Screen_Zoomed_Out](https://user-images.githubusercontent.com/35956934/77958228-01156000-72d5-11ea-876e-0c1289718656.png)
 *Forum main screen part 1*
 ![Forum_Main_Screen_Part_1](https://user-images.githubusercontent.com/35956934/77958831-f27b7880-72d5-11ea-9de8-2968ee3770c1.png)
 *Forum main screen part 2*
 ![Forum_Main_Screen_Part_2](https://user-images.githubusercontent.com/35956934/77958835-f4ddd280-72d5-11ea-9c89-30949fa6e9f3.png)
+*Whole screen of a section, zoomed out- RESPONSIVITY!*
+![Container_Whole_Screen_Zoomed_Out](https://user-images.githubusercontent.com/35956934/77958228-01156000-72d5-11ea-876e-0c1289718656.png)
 *Help section*
 ![Help_Section](https://user-images.githubusercontent.com/35956934/77958841-f7402c80-72d5-11ea-81e8-6447c915543a.png)
 *Topic view part 1*
