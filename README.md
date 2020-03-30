@@ -2,7 +2,7 @@
 <hr>
 Code is private because of security reasons. <br>
 If anyone has a wish to see the code behind pictures shown below, please contact me via GitHub.
-<hr>
+<hr> 
 This project was made in pure PHP for backend technology and HTML, CSS , JS, jQuery and AJAX for frontend technology. Idea was to create a forum like Simple Machines Forum. This forum provides Portal page with pure CSS & JS slideshow in carousel, register page, login page, home page, help section, topics & subtopics sections, profile panagment, sticky and non-sticky topics, locked topics.<br>
 It also provides admin panel, moderator panel, forum ranks, users last activity, and much more...<br>
 Forum is also resposinsible for all devices (including all types of monitors, laptops, mobiles and tablets).<br>
